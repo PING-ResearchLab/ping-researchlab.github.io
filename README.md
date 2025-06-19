@@ -5,6 +5,6 @@
 
   # PING-ResearchLab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[ping-researchlab.github.io](https://ping-researchlab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

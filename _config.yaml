@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: PING-ResearchLab
+title: PiNG Lab
 subtitle: 
 description: Perception Intelligence Networks Group
 header: images/background.jpg
@@ -11,8 +11,8 @@ links:
   email: zhup@marshall.edu
   # orcid: 0000-0001-8713-9213
   google-scholar: 23sOkXYAAAAJ
-  github: https://github.com/PING-ResearchLab
-  youtube: https://www.youtube.com/@PiNG_Lab_Marshall
+  github: PING-ResearchLab
+  youtube: @PiNG_Lab_Marshall
 
 ### jekyll settings
 

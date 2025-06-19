@@ -1,9 +1,13 @@
 ---
 ---
 
-# PING-ResearchLab's Website
+# PING Lab
 
-An engaging 1-3 sentence description of your lab.
+About PiNG Lab
+
+The Perception Intelligence Networks Group (PiNG) Lab at Marshall University, located in Huntington, West Virginia, is an interdisciplinary research lab led by Dr. Pingping Zhu. Our mission is to advance the frontiers of autonomous systems through innovations in intelligent control, computer vision, swarm drone coordination, and deep learning neural networks.
+
+At PiNG Lab, we combine theory and practical experimentation to address real-world challenges in perception-driven autonomy. Our research focuses on enabling machines to perceive, reason, and act intelligently in complex environments — from aerial robotics to vision-based systems and distributed learning frameworks.
 
 {% include section.html %}
 

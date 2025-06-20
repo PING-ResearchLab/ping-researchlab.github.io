@@ -72,9 +72,9 @@ For questions, collaborations, or more information about the PiNG (Perception In
 
 {% include cols.html col1=col1 col2=col2 col3=col3 col4=col4%}
 
-<!-- {% include section.html dark=true %} -->
+<!-- {% include section.html dark=true %}
 
-<!-- {% capture col1 %}
+{% capture col1 %}
 The iconic Memorial Student Center 
 at the heart of Marshall University’s campus.
 {% endcapture %}

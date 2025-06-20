@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team at the PiNG Lab is a diverse group of passionate researchers, graduate students, and collaborators driven by a shared mission to advance intelligent systems. Under the leadership of Dr. Pingping Zhu, we combine expertise in electrical engineering, computer science, and robotics to tackle cutting-edge challenges in computer vision, drone control, and deep learning.
 
 {% include section.html %}
 
@@ -18,9 +16,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Interested in working at the intersection of AI, robotics, and intelligent control? The PiNG Lab welcomes motivated students and collaborators to join our research efforts. Whether you're an undergraduate, graduate student, or industry partner, there are opportunities to contribute to cutting-edge projects in computer vision, swarm robotics, and deep learning. Reach out to learn how you can get involved!
 
 {% include section.html %}
 

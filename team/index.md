@@ -29,5 +29,5 @@ Interested in working at the intersection of AI, robotics, and intelligent contr
 {% endcapture %} -->
 
 
-# {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-# {% include grid.html style="square" content=content %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include grid.html style="square" content=content %}

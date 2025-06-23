@@ -20,13 +20,13 @@ Interested in working at the intersection of AI, robotics, and intelligent contr
 
 {% include section.html %}
 
-{% capture content %}
+<!-- {% capture content %}
 
 {% include figure.html image="images/zhu_pingping.jpg" %}
 {% include figure.html image="images/james_gao.jpg" %}
 {% include figure.html image="images/ben_taylor.jpg" %}
 
-{% endcapture %}
+{% endcapture %} -->
 
 
 # {% include list.html data="members" component="portrait" filter="role != 'pi'" %}

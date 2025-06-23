@@ -12,6 +12,7 @@ Our team at the PiNG Lab is a diverse group of passionate researchers, graduate 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -20,14 +21,13 @@ Interested in working at the intersection of AI, robotics, and intelligent contr
 
 {% include section.html %}
 
-<!-- {% capture content %}
+{% capture content %}
 
 {% include figure.html image="images/zhu_pingping.jpg" %}
 {% include figure.html image="images/james_gao.jpg" %}
 {% include figure.html image="images/ben_taylor.jpg" %}
 
-{% endcapture %} -->
+{% endcapture %}
 
 
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 {% include grid.html style="square" content=content %}

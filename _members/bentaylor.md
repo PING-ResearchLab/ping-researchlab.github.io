@@ -2,7 +2,8 @@
 name: Ben Taylor
 image: images/ben_taylor.jpg
 description: Master student in Electrical and Computer Engineering
-role: Student/Lab Member
+role: Student
+group: Graduate
 links:
   email: taylor924@marshall.edu
 ---

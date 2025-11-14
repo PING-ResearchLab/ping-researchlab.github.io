@@ -1,7 +1,8 @@
 ---
 name: Gao, Xu (James)
 image: images/james_gao.jpg
-role: Master student
+role: Student
+description: M.S. in Department of Computer Science and Electrical Engineering (CSEE), Fall 2023 - Summer 2025. 
 group: alum
 links:
   google scholar: https://scholar.google.com/citations?user=4iZLp5oAAAAJ

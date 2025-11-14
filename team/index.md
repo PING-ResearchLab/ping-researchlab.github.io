@@ -11,8 +11,8 @@ Our team at the PiNG Lab is a diverse group of passionate researchers, graduate 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %} 
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' && group != 'alum'" %}
 
 
 {% include section.html background="images/basic_solid_green.png" dark=false %}
